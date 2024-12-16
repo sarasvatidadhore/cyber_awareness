@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12657263482",
+    "project_id": "cyberfraud-1f8d0",
+    "storage_bucket": "cyberfraud-1f8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12657263482:android:c6749dffb155d9f7e7ccc3",
+        "android_client_info": {
+          "package_name": "com.example.cyber_awareness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9b2cdQEdiA92kLb3nl3VKwWPoZt6jds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
